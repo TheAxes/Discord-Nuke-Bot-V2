@@ -8,7 +8,7 @@ A Discord Nuke bot Made By [ TheAxes ]  Give Credits If You post Somewhere else:
 2. -[x] MassBan
 3. -[x] MassKick
 4. -[x] DelChannel
-5. -[x] delrole
+5. -[x] delroles
 6. -[x] adminall
 
 ## Extra
