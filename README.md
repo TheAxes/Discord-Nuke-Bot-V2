@@ -20,7 +20,7 @@ A Discord Nuke bot Made By [ TheAxes]  Give Credits If You post Somewhere else: 
 Skip This If You Running On Replit Direct Fork Link At Last
 1. Clone Repo
 ```
-git clone https://github.com/TheAxes/Discord-Nuke-Bot-V2
+git clone https://github.com/TheAxes/Discord-Nuke-Bot-V2.git
 ```
 2. CD CLONED REPO
 ```
